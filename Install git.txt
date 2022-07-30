@@ -1,0 +1,5 @@
+Install git hub
+downlooad git, remeber the version
+access the files with help of notepad++ or visual studio code.
+you can write your script and save it in the folder
+then, you can run git commit, push to make changes in central repo.
